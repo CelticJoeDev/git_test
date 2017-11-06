@@ -1,0 +1,1 @@
+This is my first git project to try out new git commands such as touch, add, status, log, commit, etc.
